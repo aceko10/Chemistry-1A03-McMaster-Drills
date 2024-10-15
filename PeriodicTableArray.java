@@ -1,6 +1,7 @@
 // import static org.junit.jupiter.api.Assertions.assertEquals;
 
 // import org.junit.jupiter.api.Test;
+//Just an array that has all 118 elements of the periodic table: Just placed here for reference.
 
 import java.util.Scanner; 
 import java.util.ArrayList; 
